@@ -21,6 +21,8 @@ wheels/
 .installed.cfg
 *.egg
 
+secrets.toml
+
 # Environment Variables
 .env
 .env.local
